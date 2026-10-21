@@ -12,6 +12,6 @@
     "check": "pnpm run typecheck && pnpm run lint"
   },
   "devDependencies": {
-    "vite": "8.2.1"
+    "vite": "8.2.4"
   }
 }
